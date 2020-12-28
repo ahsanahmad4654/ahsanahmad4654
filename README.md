@@ -11,7 +11,7 @@
 <a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
+<a href="https://www.instagram.com/ahsanahmad_20/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://github.com/ahsanahmad4654/">
