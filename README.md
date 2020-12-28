@@ -2,31 +2,31 @@
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=r0hnx.r0hnx" alt="r0hnx" /> </p>
 
-<a href="https://twitter.com/r0hnx" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
+<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rohancodes/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
+<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/reqres" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
+<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/rohan.codes/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
+<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
   <img align="left" alt="Rohan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/r0hnx/">
+<a href="https://github.com/ahsanahmad4654/">
   <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm [Rohan Kumar](https://rohanxo.web.app/), a Full Stack Developer 🚀 from India. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Ahsan Ahmad](https://www.fiverr.com/ahsanjutt20), a Full Stack Developer 🚀 from Pakistan. Beside's programming, I enjoy eating food and traveling.
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++;
+- 🌱 I’m currently learning Python and Laravel;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@r0hnx](https://twitter.com/r0hnx);
+- 📫 How to reach me: [@ahsanjutt20](https://www.fiverr.com/ahsanjutt20);
 - 😄 Pronouns: He/His;
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday;
   
