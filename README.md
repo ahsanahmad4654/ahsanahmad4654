@@ -24,9 +24,8 @@
 Hi, I'm [Ahsan Ahmad](https://www.fiverr.com/ahsanjutt20), a Full Stack Developer 🚀 from Pakistan. Beside's programming, I enjoy eating food and traveling.
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Python and Laravel;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ahsanjutt20](https://www.fiverr.com/ahsanjutt20);
+- 📫 How to reach me: [@ahsanahmad_20](https://www.instagram.com/ahsanahmad_20);
 - 😄 Pronouns: He/His;
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday;
   
