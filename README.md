@@ -1,20 +1,4 @@
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=ahsanahmad4654)](https://holopin.io/@rphi)
-
-<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
-  <img align="left" alt="Rohan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
-  <img align="left" alt="Rohan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="#" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
-  <img align="left" alt="Rohan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/ahsanahmad_20/" data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer">
-  <img align="left" alt="Rohan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/ahsanahmad4654/">
-  <img align="left" alt="Rohan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[![An image of @ahsanahmad4654's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsanahmad4654)](https://holopin.io/@ahsanahmad4654)
 
 <br />
 <br />
